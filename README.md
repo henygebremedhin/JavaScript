@@ -4,8 +4,8 @@ Assignment 1 *
 **************
 
 Contributors 
-	- Heny Gebremedhin    100911600
-	- KALEB TESFAY  101048170
+	- Heny Gebremedhin    100911601
+	
 
 Version:
 	- Version node node.js v8.9.4 and OS X(Apple's macOS) was used for this assignment.
