@@ -1,11 +1,3 @@
-**************
-COMP 2406    *
-Assignment 2 *
-**************
-
-Contributors 
-	- NAOL GUSHU    100911600
-	- KALEB TESFAY  101048170
 
 Version:
 	- Version node node.js v8.9.4 and OS X(Apple's macOS) was used for this assignment.
